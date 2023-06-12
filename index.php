@@ -10,6 +10,7 @@
 <body>
     <h1> Valendo
     <?php
+    // comentario
     // Verifica se o formulário foi submetido
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Obtém os valores enviados pelo formulário
